@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0405_000.yaml, hash: 'sha256:ce5a817a7a267c501454f9e3d1e4e443b458ce92391139237d17ca0438774c6f'}
-  - {seq: 1, filename: KR6i0405_001.yaml, hash: 'sha256:77e85bc41bbd95bdfc4f2e7aeba7b3e11a1af479a172eabd67412e80d1109b2c'}
+  - {seq: 1, filename: KR6i0405_001.yaml, hash: 'sha256:f13232b445fea5259f6f0f6f5a5ce3f81d55221460d072481ed18815b2d70334'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0405_001.markers.yaml, hash: 'sha256:ddffa8c011f787743d56b6a06185b46099f4e25ddb455320c78d0bee59c7ae5d'}
+  - {seq: 0, role: markers, filename: assets/KR6i0405_000.markers.yaml, hash: 'sha256:cec36913c6a423fed27a8bdc351642e78d30bf6ef306ceb3537c1a4ca3c4a96b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0405_001.markers.yaml, hash: 'sha256:7ffc5a69c4ccd5e767344ef2e6f2272cafe2f71cfb2770cdaeeb6c5ae0a01ea6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 大乘稻芉經隨聽疏
   type: juan
   level: 1
-hash: sha256:01d8ef992ca9f6e1b5f78c435f31b27bb9b73443450634dead724cc27d729b76
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7ab59b29f9e9d4c43ce6334dfb6dc2237d16cefe1cc758c459ec24b620e0fa6d
